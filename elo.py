@@ -1,0 +1,10 @@
+import turtle
+elo = turtle.Turtle()
+elo.right(60)
+elo.forward(150)
+elo.left(120)
+elo.forward(150)
+elo.left(60)
+elo.forward(150)
+elo.left(120)
+elo.forward(150)
